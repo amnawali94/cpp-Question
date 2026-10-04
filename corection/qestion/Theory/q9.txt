@@ -1,0 +1,6 @@
+9. What is a loop? Explain the basic difference between for, while, and do-while loops.
+ans:
+loop:"loop mean 'cycle' it is a process which rapeat one or more time".
+for loop:"it run only for true".
+while:"it also run for true it use when end is not find".
+do while:"it print one iteration  and then check condition".

@@ -1,0 +1,5 @@
+5. What is the difference between cin and cout?
+cin:
+"it is keyword which takes input from to user".
+cout:
+"It give output to user ".

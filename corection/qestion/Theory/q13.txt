@@ -1,0 +1,4 @@
+13. What is an array? Why is the index of the first element normally 0?
+array:'it is detatype which take countagious space in memory".
+why indexing is takin 0
+it is way to take index to array it always start from 0->n-1.

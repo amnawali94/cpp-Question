@@ -1,0 +1,4 @@
+4. What is the purpose of #include <iostream>?
+ans:
+#include <iostream>
+it is a header file in which it main purpes is it help to run a code.

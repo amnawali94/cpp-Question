@@ -1,0 +1,6 @@
+1. What is C++? Mention two important features of the language.
+Ans:
+c++ is a programing language.
+important features:
+1.it is use in game dovelpment.
+2.in modern world microsoft and adobi and more poplur company write code in c++.

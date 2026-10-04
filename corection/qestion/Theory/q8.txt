@@ -1,0 +1,8 @@
+8. What is the difference between if, if - else, and else - if statements ?
+ans:
+if statement:
+"it run only in true condition".
+if-else:
+"if 'if 'is false then else is run".
+else -if:
+"else-if run when if-else  condition become false "

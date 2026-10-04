@@ -1,0 +1,4 @@
+10. What is the purpose of the break and continue statements
+ans:
+break: is use for stop or break
+continue:it skip one iteration .

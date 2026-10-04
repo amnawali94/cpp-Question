@@ -1,0 +1,5 @@
+11. What is a function? Why are functions useful in a program?
+function :
+"function is a machin in which we give input and get output".
+1.it make code more readable.
+2.it make code more short.

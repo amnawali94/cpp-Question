@@ -1,0 +1,8 @@
+3. What is a data type ? Explain int, float, double, char, and bool.
+data type:"it is a way to giving name of variable".
+int :"it store only integer. like 13,1,2,3.".
+float :"it store only decimal numbers.like 3.14,31.23".
+double:"it store both integer , float and long value ".
+char:"it store only charecter it store only on leter like char ch='a',char ch='+' ".
+char:"it store only binary number (o,1)".
+

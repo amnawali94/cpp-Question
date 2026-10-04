@@ -1,0 +1,5 @@
+2. What is the difference between a variable and a constant in C++?
+ans:
+variable:"variable mean which change but in computer language it is a name which gven to detatype ".Example;int name;
+constant:"constant which can't change if it's name given one time".
+example;constant pi =3.14

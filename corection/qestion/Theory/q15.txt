@@ -1,0 +1,4 @@
+15. What is a pointer? At a basic level, what do the * and & operators mean when working with pointers and addresses?
+pointer:"pointer store address of variable".
+*:it store address of variable.
+&:it tells address of veriable.

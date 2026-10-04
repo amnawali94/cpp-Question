@@ -1,0 +1,5 @@
+14. What is a string in C++? Give one difference between a C-style character array and std::string.
+1.string:it is a detatyp which use to store  name and text.
+2.std::string
+std is standerd library.
+string isuse to store  name and text.

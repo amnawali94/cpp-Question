@@ -1,0 +1,6 @@
+12. What is the difference between a function parameter and an argument?
+function parameter :
+which is pass in function bracket.
+detatype functionname(parameter)
+function argument:
+argument tels which work take to a function.q1
