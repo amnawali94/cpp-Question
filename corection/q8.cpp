@@ -3,15 +3,14 @@ using namespace std;
 
 int main()
 {
-    int number = 7;
-    if (number % 2 == 0)
+    int marks = 75;
+    if (marks >= 50)
     {
-        cout << "Evan";
+        cout << "Pass";
     }
     else
     {
-        cout << "odd";
+        cout << "Fail";
     }
-
     return 0;
 }
